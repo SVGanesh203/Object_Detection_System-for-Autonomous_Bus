@@ -114,8 +114,7 @@ The system generates a processed video with:
 ## ⚠️ Challenges Faced
 
 * Handling large dataset (BDD100K)
-* I
-
+* It takes some time to run large outputs
 ---
 
 ## 💡 Future Improvements
@@ -135,12 +134,10 @@ This project demonstrates how **AI-powered perception systems** can significantl
 
 ## 👨‍💻 Authors
 
-* Your Name
-* Team Members (if any)
-
+* S.V.Ganesh
 ---
 
 ## 📜 License
 
-This project is for academic purposes.
+This project is MIT LISENCE.
 
