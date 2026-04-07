@@ -115,6 +115,8 @@ The system generates a processed video with:
 
 * Handling large dataset (BDD100K)
 * It takes some time to run large outputs
+* I couldn't upload the code with outputs as the size of file has reached ~ 500MB
+
 ---
 
 ## 💡 Future Improvements
